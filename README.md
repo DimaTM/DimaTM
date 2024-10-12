@@ -1,4 +1,4 @@
-<img src="https://github.com/DimaTM/DimaTM/blob/main/background.png" height="150" alt="banner"  />
+<img src="https://github.com/DimaTM/DimaTM/blob/main/background.png" alt="banner"  />
 <h1>Hi there👋</h1>
 <h4 align="left">I'm Dmitriy from Turkmenistan. Innovative, creative, task-driven professional with 4+ years of experience in full-stack software development, web/desktop/mobile design across diverse industries. Proficient in developing enterprise level applications, 2D and 3D solutions, databases, cross platform user interfaces, Ai based solutions.</h4>
 ###
