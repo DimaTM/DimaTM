@@ -1,4 +1,4 @@
-<img src="https://github.com/DimaTM/DimaTM/blob/main/background.png" alt="banner"  />
+<img src="[https://github.com/DimaTM/DimaTM/blob/main/background.png](https://github.com/DimaTM/DimaTM/blob/main/background.png)" alt="banner"  />
 <h1 align="left">Hi there 👋</h1>
 
 ###
